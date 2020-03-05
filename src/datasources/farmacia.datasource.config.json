@@ -1,8 +1,8 @@
 {
   "name": "farmacia",
   "connector": "mongodb",
-  "url": "mongodb+srv://userMongo:Password01@cluster-nxtjk.mongodb.net/test",
-  "host": "mongodb+srv://cluster-nxtjk.mongodb.net/test",
+  "url": "mongodb+srv://userMongo:Password01@cluster-nxtjk.mongodb.net/pharmacy",
+  "host": "mongodb+srv://cluster-nxtjk.mongodb.net/pharmacy",
   "port": 15543,
   "user": "userMongo",
   "password": "Password01",
